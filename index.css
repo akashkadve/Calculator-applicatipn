@@ -1,0 +1,33 @@
+.container{
+    border: 1px solid #8f8b8b;
+    border-radius: 5px;
+    width: 200px;
+    background-color: rgb(2, 2, 2);
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin: 10% 40%;
+}
+#display{
+    width: 97%;
+    height: 35px;
+    font-size: 20px;
+
+}
+.button-container{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+.button{
+    margin: 3px 5px;
+   height: 45px;
+   width: 45px;
+   background-color: orangered;
+   border: none;
+   color: #fff;
+   font-weight: 400;
+   font-size: 25px;
+   border-radius: 3px;
+   cursor: pointer;
+}
